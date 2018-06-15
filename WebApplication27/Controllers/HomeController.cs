@@ -12,5 +12,10 @@ namespace WebApplication27.Controllers
         {
             return View();
         }
+
+        public void Bar()
+        {
+            
+        }
     }
 }
