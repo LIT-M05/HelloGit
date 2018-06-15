@@ -15,7 +15,7 @@ namespace WebApplication27.Controllers
 
         public void Bar()
         {
-            
+            Console.WriteLine("hello");
         }
     }
 }
